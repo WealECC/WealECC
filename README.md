@@ -12,6 +12,8 @@ Weal ECC is the official **HealthTech Club** of **PES University, Electronic Cit
 
 ## 🌟 **Heal-O-Code 2.0** 🌿
 
+- **Register Now!**: [heal-o-code-2.vercel.app](https://heal-o-code-2.vercel.app/)
+  
 **Heal-O-Code 2.0** is our flagship healthtech hackathon, bringing together the brightest minds to build solutions that transform healthcare. Whether you're a developer, designer, or healthcare enthusiast, this is your chance to make a difference!
 
 ### 💡 **Why Participate?**
@@ -25,7 +27,7 @@ Stay tuned for event dates, registration details, and more updates!
 ---
 
 ## 📲 **Connect With Us**
-- **Instagram**: [@WealECC](https://www.instagram.com/weal_ecc/)
+- **Instagram**: [@weal_ecc](https://www.instagram.com/weal_ecc/)
 
 Let's innovate for a healthier future! 💙
 
