@@ -1,6 +1,6 @@
-# Welcome to **WealECC**! 👩‍⚕️💻
+# Welcome to **Weal ECC**! 👩‍⚕️💻
 
-WealECC is the official **HealthTech Club** of **PES University, Electronic City Campus**. We're passionate about the intersection of healthcare and technology, fostering innovation to solve real-world medical challenges.
+Weal ECC is the official **HealthTech Club** of **PES University, Electronic City Campus**. We're passionate about the intersection of healthcare and technology, fostering innovation to solve real-world medical challenges.
 
 ## 🚀 **What We Do**
 - Organize hackathons and coding competitions
